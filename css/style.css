@@ -1,0 +1,119 @@
+h1{font-weight: bold; 
+   font-family: 'Magra', sans-serif;}
+p{text-align: justify;}
+
+   h4, h2, h3, h5, h6 {font-family: 'Magra', sans-serif;}
+
+*{font-family: 'Source Sans Pro', sans-serif;}
+
+.boton-estadisticas{margin-right: 90px; 
+	padding: 10px; 
+	font-weight: bold; 
+	font-size: 20px; 
+	border-color: transparent;}
+
+.textest{padding-left: 17px;}
+
+.numerosint{padding-left: 24px;}
+
+.back{font-weight: bold;
+	  color: #cc4343;}
+
+.paneldesc{background-color: #ebebeb;
+		   margin-left:30px; 
+		   padding-top: 10px;
+		   padding-bottom: 10px;}	 
+
+.back:hover{color: #c97676;}
+
+.formulario{padding-left: 20px;}
+
+.panelredes{background-color:#d2dbd0;
+			padding:20px;}
+
+.imagenesredes{height:40px;}
+
+.fuentes{font-size: 11px;
+font-style: italic;
+text-align: justify;
+padding-top: 10px;
+color: #9c9797;
+padding-right:520px;
+padding-left: 10px;}
+
+.imagendesc{height: 250px; 
+			margin-right: 5px;
+			margin-left: -5px;}
+
+.textodesc{margin-left: 20px;
+		   font-size: 13.3px;
+		   text-align: justify;}
+
+.desc{font-weight: bold;
+	  font-size: 17px;
+	  padding-left: 20px;}
+
+.textocuadro{color: #000000;}
+
+.textocuadro:hover{color: #000000;}
+
+.boton-estadisticas:hover{background-color: #d6cfcf;}	
+
+.body{background-color: #909090;}
+
+.banner{background-image: url('../imagenes/banmapa.png');
+		min-height: 300px; margin-left:-15px; margin-right:-15px;
+		margin-bottom: 20px;}
+
+.textoban{padding-left: 60px; 
+	 	  padding-right: 60px; 
+		  font-size: 20px; 
+		  font-weight: bold;}
+
+.listado{margin-top: 20px;
+		 list-style: square;
+		 margin-left: 100px;
+		 margin-bottom: 120px;}
+
+.contenedor{padding-left: 40px; 
+			padding-right: 40px; 
+			color: black;}
+
+.texto{font-size: 13px;
+	   text-align: justify;}
+
+.imagenes{height: 230px;}
+
+.header{ padding-left: 20px; 
+         padding-right: 20px;}
+
+.footer{background-color: #222222; margin-bottom: -130px; margin-left: -10px;}
+
+
+.pietexto{color: #e3e3e3; 
+		  text-align: justify; background-color:#222222;}
+
+.pie-enlaces{color: #ffffff; 
+			 font-size: 17px;
+	 		 padding-left: 10px; background-color:#222222;}
+
+
+.navegador{font-size: 19px; 
+           margin-top: 80px; 
+           padding-left: 10px;
+           margin-right: -20px;}
+
+.logo{ padding-left: 60px;}
+
+a{ color: #e6a024;}
+
+.navegador a{color: #736f6f;  font-weight: bold;  }
+
+
+.navegador a:hover{color: #e6a024;}
+
+a:hover{text-decoration: none;}
+
+.altocont{min-height: 519px;}
+
+.texto-panel{padding-left: 10px; padding-top: 10px;}
