@@ -48,6 +48,9 @@ padding-left: 10px;}
 .textodesc{margin-left: 20px;
 		   font-size: 13.3px;
 		   text-align: justify;}
+		   
+.txtam{background-color:yellow;}
+.txtrj{background-color:orange;}
 
 .desc{font-weight: bold;
 	  font-size: 17px;
